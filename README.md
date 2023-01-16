@@ -36,37 +36,31 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
+name: Shantanu Dwivedi
+located_in: Gurugram, Haryana
 current_job: Full Stack Developer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught Developer",
+    "Bachelor's in Computer Science & Engineering",
   ]
-company: Soulber
+company: Unolo
 
 fields_of_interests:
   [
-    "Web Development",
+    "Backend Development",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
-    "Game Development",
     "DevOps",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern - The complete Node.js Course",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["Docker, Kubernetes and React"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Badminton", "Comedy"]
 ```
   
 ---  
@@ -105,7 +99,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shantanudwvd/shantanudwvd/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
