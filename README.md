@@ -7,22 +7,25 @@
 </h1>
 
 <p align="center">
-<a href="https://piyushmalhotra.netlify.app/">
+<!-- Update with your own website link if you have one -->
+<a href="https://shantanudwivedi.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+<a href="https://www.linkedin.com/in/shantanudwvd/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://thepiyushmalhotra.medium.com/">
+<!-- Replace with your own Medium link if you have one or remove if not needed -->
+<a href="https://medium.com/@shantanu.dwvd">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
-<a href="https://dev.to/thepiyushmalhotra">
+<!-- Replace with your own Dev.to link if you have one or remove if not needed -->
+<a href="https://dev.to/shantanudwvd">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
-<a href="https://twitter.com/Ipiyushmalhotra">
+<a href="https://twitter.com/shantanudwvd">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/shantanudwvd/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
@@ -56,12 +59,32 @@ fields_of_interests:
 technical_background:
   [
     "Intern - The complete Node.js Course",
+    "Full Stack Developer at Unolo",
   ]
   
 currently_learning: ["Docker, Kubernetes and React"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2025_goals: ["Master cloud-native technologies", "Contribute to open-source projects", "Build a portfolio of full-stack applications"]
 hobbies: ["Gaming", "Badminton", "Comedy"]
 ```
+
+---  
+
+<h2> 💻 &nbsp;Featured Projects</h2>
+
+<p align="left">
+  <a href="https://github.com/shantanudwvd/project-name-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shantanudwvd&repo=project-name-1&theme=dark" alt="Project 1" />
+  </a>
+  <a href="https://github.com/shantanudwvd/project-name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shantanudwvd&repo=project-name-2&theme=dark" alt="Project 2" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/shantanudwvd?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</p>
   
 ---  
   
@@ -93,10 +116,15 @@ hobbies: ["Gaming", "Badminton", "Comedy"]
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&theme=noctis_minimus&layout=compact" />
+<h2> 📈 &nbsp;My GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanudwvd&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+<a href="https://github.com/shantanudwvd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shantanudwvd&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanudwvd&theme=tokyonight&layout=compact" />
 </a>
 
 ![Snake animation](https://github.com/shantanudwvd/shantanudwvd/blob/output/github-contribution-grid-snake.svg)
