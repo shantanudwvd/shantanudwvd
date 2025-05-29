@@ -15,17 +15,17 @@ I build scalable web applications and microservices with a focus on performance 
 </p>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/shantanudwvd/">
+<a href="https://www.linkedin.com/in/shantanu-d-216994b3/">
   <img height="45" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://shantanudwivedi.netlify.app/">
-  <img height="45" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+<a href="https://stackoverflow.com/users/8399525/shantanu-dwivedi">
+  <img height="45" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
 </a>
 <a href="mailto:shantanu.dwvd@gmail.com">
   <img height="45" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://twitter.com/shantanudwvd">
-  <img height="45" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+<a href="https://github.com/shantanudwvd">
+  <img height="45" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </div>
 
@@ -41,71 +41,34 @@ I build scalable web applications and microservices with a focus on performance 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">E-Commerce Microservices Platform</h3>
+      <h3 align="center">API Rate Limiting Proxy System</h3>
       <div align="center">
-        <a href="https://github.com/shantanudwvd/ecommerce-microservices" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="100" alt="E-commerce App"/>
+        <a href="https://github.com/shantanudwvd/rate-limiting-proxy" target="_blank">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="100" alt="Rate Limiting API"/>
         </a>
         <p>
-          <a href="https://github.com/shantanudwvd/ecommerce-microservices" target="_blank">
+          <a href="https://github.com/shantanudwvd/rate-limiting-proxy" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
           </a>  
-          <a href="https://ecommerce-demo.shantanudwivedi.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-navy?style=flat-square&logo=vercel"/>
-          </a>
         </p>
-        <p><strong>Node.js, Express, MongoDB, Docker, Kubernetes</strong> - A scalable e-commerce platform built with microservices architecture. Features include authentication, product catalog, shopping cart, payment processing, and order management.</p>
+        <p><strong>TypeScript, Express.js, PostgreSQL, Sequelize ORM, JWT, Docker</strong> - A robust proxy API service handling rate limiting for third-party APIs. Implements multiple algorithms (Token Bucket, Fixed Window, Sliding Window, Leaky Bucket), secure API key management with JWT, automatic request queuing, and comprehensive logging. Features layered architecture for scalability and maintainability.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Real-time Chat Application</h3>
+      <h3 align="center">AI Instagram Caption Generator</h3>
       <div align="center">
-        <a href="https://github.com/shantanudwvd/realtime-chat" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="100" alt="Chat App"/>
+        <a href="https://github.com/shantanudwvd/instagram-caption-generator" target="_blank">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="100" alt="Caption Generator"/>
         </a>
         <p>
-          <a href="https://github.com/shantanudwvd/realtime-chat" target="_blank">
+          <a href="https://github.com/shantanudwvd/instagram-caption-generator" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
           </a>  
-          <a href="https://chat.shantanudwivedi.com" target="_blank">
+          <a href="https://captionmuse.adityagusain.com" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-navy?style=flat-square&logo=vercel"/>
           </a>
         </p>
-        <p><strong>React, Socket.io, Express, MongoDB</strong> - Feature-rich real-time chat application with private messaging, group chats, message history, and file sharing capabilities.</p>
-      </div>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%">
-      <h3 align="center">DevOps Automation Pipeline</h3>
-      <div align="center">
-        <a href="https://github.com/shantanudwvd/devops-pipeline" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="100" alt="DevOps Pipeline"/>
-        </a>
-        <p>
-          <a href="https://github.com/shantanudwvd/devops-pipeline" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
-          </a>
-        </p>
-        <p><strong>Docker, Kubernetes, Jenkins, AWS, Terraform</strong> - Complete CI/CD pipeline for automating application deployment using infrastructure as code. Includes monitoring, alerting, and auto-scaling.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">AI-Powered Content Recommendation Engine</h3>
-      <div align="center">
-        <a href="https://github.com/shantanudwvd/content-recommendation" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="100" alt="AI Recommender"/>
-        </a>
-        <p>
-          <a href="https://github.com/shantanudwvd/content-recommendation" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
-          </a>
-          <a href="https://recommender-demo.shantanudwivedi.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-navy?style=flat-square&logo=vercel"/>
-          </a>
-        </p>
-        <p><strong>Python, TensorFlow, Flask, React</strong> - Content recommendation system using machine learning algorithms to provide personalized suggestions based on user behavior and preferences.</p>
+        <p><strong>React, Node.js, Express, OpenAI API, Spotify API, MongoDB</strong> - AI-powered application using GPT-4o Vision API for image analysis and personalized caption generation. Features Spotify integration, customizable options (tone, length, language, emojis), voice recording, and a fine-tuned GPT model with feedback-based learning system for continuous improvement.</p>
       </div>
     </td>
   </tr>
@@ -123,38 +86,48 @@ I build scalable web applications and microservices with a focus on performance 
 
 <div align="center">
   
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo_Server-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### AWS & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -164,31 +137,28 @@ I build scalable web applications and microservices with a focus on performance 
 
 ```yaml
 name: Shantanu Dwivedi
-title: Full Stack Developer
+title: Full Stack Engineer
 company: Unolo
-experience: 3+ years
+experience: 5+ years
 location: Gurugram, India
 
 education:
-  - degree: "Bachelor's in Computer Science & Engineering"
-    university: "Your University Name"
+  - degree: "B.Tech. in Computer Science & Engineering"
+    university: "Punjabi University, Patiala"
     year: 2019
-  - certification: "AWS Certified Solutions Architect"
-    year: 2024
-  - certification: "Docker and Kubernetes Certified Associate"
-    year: 2023
+    cgpa: "6.7/10"
 
 interests:
   - "Backend Architecture Design"
   - "Cloud-Native Applications"
   - "Performance Optimization"
-  - "Microservices"
-  - "API Development"
+  - "GraphQL & API Development"
+  - "Machine Learning & AI Integration"
 
 current_focus:
-  - "Mastering Advanced AWS Services"
-  - "Contributing to Open Source"
-  - "System Design & Architecture"
+  - "AI Model Fine-tuning"
+  - "Distributed Systems Architecture"
+  - "Rate Limiting & Proxy Services"
 ```
   
 ---
@@ -214,45 +184,67 @@ current_focus:
 
 <img align="right" src="https://img.shields.io/badge/Unolo-blue?style=for-the-badge" />
 
-**Full Stack Developer** <br>
-*Unolo* | 2022 - Present
+**Full Stack Engineer** <br>
+*Unolo* | September 2021 - Present
 
-- Designed and implemented RESTful APIs using Node.js, Express, and MongoDB
-- Led migration from monolithic to microservices architecture with Docker and Kubernetes
-- Implemented CI/CD pipeline using GitHub Actions and AWS ECS
-- Reduced application load time by 40% through frontend performance optimization
-- Mentored junior developers and conducted code reviews
+- Designed and built standalone attendance Android application using AWS Rekognition for facial recognition
+- Built API Integration Manager framework for third-party platforms (greytHR, Zoho) using Command Design Pattern
+- Developed GraphQL schemas and queries for workforce attendance, clients, and task management
+- Implemented Login with WhatsApp feature for Android and iOS applications
+- Designed Users Rights and Access Management system for admin visibility control
+- Built automated ETL data pipelines for Customer Relationship Management reports
+- Developed Firebase-based multi-device access management for field executives
 
-<img align="right" src="https://img.shields.io/badge/Previous_Company-gray?style=for-the-badge" />
+<img align="right" src="https://img.shields.io/badge/Tracxn-purple?style=for-the-badge" />
 
-**Software Engineer Intern** <br>
-*Previous Company* | 2021 - 2022
+**Automation Engineer** <br>
+*Tracxn* | October 2020 - August 2021
 
-- Developed and maintained multiple features for company's core web application
-- Collaborated with UX designers to implement responsive user interfaces
-- Participated in agile development cycles and sprint planning
+- Designed and developed Tier 1 REST APIs for upstream services performing mathematical functions
+- Implemented client datasets' index mappings using AWS Elastic Search
+
+<img align="right" src="https://img.shields.io/badge/Thoughts2Binary-orange?style=for-the-badge" />
+
+**Associate Software Developer I** <br>
+*Thoughts2Binary* | May 2019 - March 2020
+
+- Built automated workflow using AWS serverless compute for client onboarding and integration
+- Developed REST APIs to sync orders from various clients to Quivers middleware
+- Enhanced and optimized existing client pipelines on the company platform
+
+---
+
+## 🏆 Achievements & Certifications
+
+- **Active Competitive Programmer** - 100+ problems solved across various platforms (2015 - Present)
+- **HackerRank Certified** - Problem Solving and Python certifications (October 2020)
+- **Code with Mosh** - NodeJS Technology Course Completion (August 2020)
+- **2nd Place Winner** - Code Hunt at Tech Fest (2017)
+- **Co-founder** - Mozilla Campus Club (2017)
+- **Class Representative** - During undergraduate studies (2015)
 
 ---
 
 ## 📌 Current Focus
 
-- Building cloud-native applications with Kubernetes and AWS ECS
-- Contributing to open-source Node.js and DevOps projects
-- Exploring machine learning models for recommendation systems
-- Writing technical articles on system design and performance optimization
+- Building scalable API architectures with rate limiting and proxy services
+- AI model fine-tuning for improved contextual relevance
+- GraphQL API development for complex data relationships
+- AWS cloud services and serverless architectures
+- Contributing to open-source projects and competitive programming
 
 ---
 
 <div align="center">
   <h3>🌐 Connect & Follow</h3>
-  <a href="https://www.linkedin.com/in/shantanudwvd" target="_blank">
+  <a href="https://www.linkedin.com/in/shantanu-d-216994b3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://twitter.com/shantanudwvd" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  <a href="https://stackoverflow.com/users/8399525/shantanu-dwivedi" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
   </a>
-  <a href="https://dev.to/shantanudwvd" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
+  <a href="https://github.com/shantanudwvd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
   <a href="mailto:shantanu.dwvd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
