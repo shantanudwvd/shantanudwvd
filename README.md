@@ -1,14 +1,41 @@
-# Hi, I'm Shantanu 👋  
+<!-- Profile Header -->
+<div align="center">
+  
+  # Hi, I'm Shantanu 👋  
+  ### Senior Node.js & TypeScript Engineer  
 
-**Senior Node.js & TypeScript Engineer**  
-Building AI-powered, distributed, and developer-friendly systems.
+  Building AI-powered, distributed, and developer-friendly systems.
+  
+  ---
+
+  <!-- Badges -->
+  <p>
+    <a href="mailto:shantanu.dwvd@gmail.com">
+      <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/shantanu-dwivedi-216994b3">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://stackoverflow.com/users/8399525/shantanu">
+      <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    </a>
+    <a href="https://github.com/shantanudwvd?tab=repositories">
+      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=shantanudwvd&style=flat-square&color=blue" alt="Profile views" />
+  </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
 - Senior Software Engineer working remotely with **Genba Studio B.V. (Netherlands)** on AI-powered document processing and workflow automation.  
-- 4+ years of experience across backend, full-stack, and automation roles (Unolo, Tracxn, Thoughts2Binary, Induced).  
+- 4+ years of experience across backend, full-stack, and automation roles (**Unolo, Tracxn, Thoughts2Binary, Induced**).  
 - Specialized in **Node.js, TypeScript, Next.js**, and **microservices**, with strong exposure to **AI (OpenAI, LangChain, vLLM)** and **cloud platforms (AWS, Scaleway)**.  
 - Passionate about privacy-first, decentralized architectures and building systems that are resilient, observable, and easy for teams to work with.
 
@@ -17,15 +44,11 @@ Building AI-powered, distributed, and developer-friendly systems.
 ## 🚀 What I’m Working On
 
 ### 🧠 Avant-Guarde Platform @ Genba Studio
-AI-powered document processing & project management platform built using **Next.js 14, React 18, TypeScript, GraphQL (Apollo)**, MongoDB, and a microservices architecture for versioned content creation and collaboration.
-
----
+AI-powered document processing & project management platform using **Next.js 14, React 18, TypeScript, GraphQL (Apollo)**, MongoDB, and a microservices architecture for versioned content creation and collaboration.
 
 ### 🔐 Rate Limiting Proxy API  
-A TypeScript + Express.js proxy service that transparently manages **Token Bucket, Fixed Window, Sliding Window, and Leaky Bucket** rate-limiting strategies, with PostgreSQL + Sequelize for persistent tracking and JWT/API key authentication.  
+A TypeScript + Express.js proxy service that transparently manages **Token Bucket, Fixed Window, Sliding Window, and Leaky Bucket** rate-limiting strategies with PostgreSQL + Sequelize for persistent tracking and JWT/API key authentication.  
 👉 **Repo:** https://github.com/shantanudwvd/rate-limiting-proxy-api
-
----
 
 ### 📸 Instagram Caption Generator  
 Full-stack AI caption generator using **React 19, Node.js/Express, OpenAI GPT-4o, MongoDB** with multi-modal features (vision, voice input, music context) and an admin dashboard for analytics & fine-tuning.  
@@ -33,108 +56,111 @@ Full-stack AI caption generator using **React 19, Node.js/Express, OpenAI GPT-4o
 
 ---
 
-## 🧩 Experience Snapshot
-
-### **Senior Software Engineer — Genba Studio B.V. (Remote, NL)**  
-**Sept 2025 – Present**  
-- Built a microservices-based Avant-Guarde platform for enterprise document processing, versioning, and collaboration.  
-- Implemented AI pipelines using OpenAI APIs for content generation, translation, and testing, including JSON patch-based document versioning.  
-- Created a kanban project management system, real-time collaboration features, and a serverless functions platform on Scaleway (GPU-backed inference with vLLM).  
-- Developed **Shinka**, a Next.js game dashboard using React Konva & MongoDB.
-
----
-
-### **Software Developer — Induced (Remote, USA)**  
-**Jun 2025 – Sept 2025**  
-- Built **Company Research Tool v2** using Next.js 15, React 19, and TypeScript with AI-powered company analysis.  
-- Developed a **driver drowsiness detection system** using FastAPI, OpenCV, dlib, WebSockets, and MongoDB.  
-- Shipped multiple enterprise dashboards (Chargeflow, Galaxy, Validex) with Next.js and Shadcn UI.  
-- Built an **AI-powered private equity agent** using LangChain, OpenAI, and Pinecone.
-
----
-
-### **Full Stack Engineer — Unolo (Gurgaon, India)**  
-**Sept 2021 – May 2025**  
-- Built a standalone attendance app using **AWS Rekognition** for face-based attendance and payroll workflows.  
-- Created an API Integration Manager framework for greytHR, Zoho, and other platforms using behavioral design patterns.  
-- Implemented GraphQL schemas and queries; built “Login with WhatsApp” for mobile apps.  
-- Tied for **1st place in a company hackathon** by building a speech-to-text automation system using OpenAI APIs.
-
----
-
-### **Automation Engineer — Tracxn (Bengaluru, India)**  
-**Oct 2020 – Aug 2021**  
-- Developed Tier-1 REST APIs and ElasticSearch mappings for large organizational datasets.  
-
----
-
-### **Associate Software Developer I — Thoughts2Binary (Gurugram, India)**  
-**May 2019 – Mar 2020**  
-- Developed AWS serverless workflows (Lambda, DynamoDB, S3) to onboard and integrate new clients into a middleware platform.  
-- Built REST APIs and optimized pipelines for multi-client e-commerce order syncing.  
-
----
-
 ## 🛠 Tech Stack
 
-**Languages**  
-`JavaScript` `TypeScript` `C` `C++` `Java` `Python` `SQL`
+### 🧩 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-**Backend & APIs**  
-`Node.js` `Express.js` `FastAPI` `GraphQL` `Apollo Server`  
-`REST` `JWT` `OAuth` `RBAC` `Microservices`
+### 🧠 Backend / APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
+![Apollo](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge)
 
-**Frontend**  
-`React 18/19` `Next.js 14/15`  
-`Material-UI` `Tailwind CSS` `Shadcn UI` `React Konva`
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
 
-**Datastores**  
-`MongoDB` `PostgreSQL` `MySQL` `DynamoDB`  
-`Sequelize` `Mongoose` `Pinecone`
+### 🗄 Databases / Search
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=fff&style=for-the-badge)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=fff&style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0F9D58?style=for-the-badge)
 
-**AI / ML & CV**  
-`OpenAI APIs` `LangChain` `vLLM`  
-`AWS Rekognition` `OpenCV` `dlib`
+### 🤖 AI / ML / CV
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge)
+![AWS Rekognition](https://img.shields.io/badge/AWS%20Rekognition-FF9900?logo=amazonaws&logoColor=fff&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge)
 
-**Cloud & DevOps**  
-`AWS (Lambda, EC2, S3, SQS, DynamoDB, ElasticSearch, Rekognition)`  
-`Scaleway` `Docker` `GitHub Actions`
-
-**Tooling**  
-`Git` `VSCode` `WebStorm` `Postman` `Kafka` `HAProxy`
+### ☁️ Cloud / DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900&style=for-the-badge)
+![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?logo=scaleway&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff&style=for-the-badge)
 
 ---
 
-## 🧪 Selected Projects
+## 📊 GitHub Stats
 
-### 🔐 Rate Limiting Proxy API
-Proxy layer that manages multi-strategy API rate limiting with configurable algorithms, authentication, and persistent state.  
+<div align="center">
 
-### 📸 Instagram Caption Generator
-AI-powered caption generator with multimodal input, 11+ tones, multi-language support, and analytics dashboard.
+  <img src="https://github-readme-stats.vercel.app/api?username=shantanudwvd&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shantanudwvd&theme=github-dark&hide_border=true" height="160" alt="GitHub Streak" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanudwvd&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🧩 Experience (Snapshot)
+
+- **Senior Software Engineer — Genba Studio B.V. (Remote, NL)**  
+  Building microservices-based platforms for enterprise document processing, AI-assisted content creation, and project management.
+
+- **Software Developer — Induced (Remote, USA)**  
+  Next.js-based UIs, AI-powered company research, driver drowsiness detection, and PE agents using LangChain + OpenAI.
+
+- **Full Stack Engineer — Unolo**  
+  Face-recognition attendance system (AWS Rekognition), API integration frameworks, and WhatsApp-based authentication.
+
+- **Automation Engineer — Tracxn**  
+  Tier-1 REST APIs and ElasticSearch mappings for large organizational datasets.
+
+- **Associate Software Developer I — Thoughts2Binary**  
+  AWS serverless workflows for multi-client e-commerce integrations.
 
 ---
 
 ## 📚 Education
 
-**B.Tech. in Computer Science & Engineering**  
-Punjabi University, Patiala  
-CGPA: 6.7/10  
+**B.Tech. in Computer Science & Engineering** — Punjabi University, Patiala  
 
 ---
 
 ## 🎯 Beyond the Resume
 
-- Solved **100+ coding challenges** across various platforms.  
+- Solved **100+ coding challenges** across platforms.  
 - Co-founded a **Mozilla Campus Club**.  
-- Certified in **Problem Solving** & **Python (HackerRank)**.  
-- Completed **Node.js Mastery** from Code with Mosh.
+- HackerRank certifications in **Problem Solving** & **Python**.  
+- Completed **Node.js Mastery (Code with Mosh)**.  
 
 ---
 
 ## 📫 Get in Touch
 
-- **Email:** shantanu.dwvd@gmail.com  
-- **GitHub:** https://github.com/shantanudwvd  
-- **LinkedIn:** https://linkedin.com/in/shantanu-dwivedi-216994b3  
+- 📧 **Email:** [shantanu.dwvd@gmail.com](mailto:shantanu.dwvd@gmail.com)  
+- 🧑‍💻 **GitHub:** [@shantanudwvd](https://github.com/shantanudwvd)  
+- 💼 **LinkedIn:** [Shantanu Dwivedi](https://linkedin.com/in/shantanu-dwivedi-216994b3)  
+
+> Always open to interesting problems in **Node.js, TypeScript, AI, and decentralized / P2P architectures**.
 
