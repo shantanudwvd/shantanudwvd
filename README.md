@@ -1,262 +1,140 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&text=Shantanu%20Dwivedi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Backend%20Specialist%20|%20DevOps%20Enthusiast&descAlignY=50&descAlign=50"/>
-</p>
+# Hi, I'm Shantanu 👋  
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Open_to_Work-Yes-brightgreen?style=for-the-badge" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Experience-3+_Years-blue?style=for-the-badge" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Location-Gurugram,_India-red?style=for-the-badge" alt="Location"/>
-</div>
-
-<h2 align="center">👨‍💻 Full Stack Developer with expertise in Node.js and Cloud Technologies</h2>
-
-<p align="center">
-I build scalable web applications and microservices with a focus on performance optimization and cloud-native architectures. Passionate about creating clean, maintainable code and implementing DevOps best practices.
-</p>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/shantanu-d-216994b3/">
-  <img height="45" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://stackoverflow.com/users/8399525/shantanu-dwivedi">
-  <img height="45" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-</a>
-<a href="mailto:shantanu.dwvd@gmail.com">
-  <img height="45" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/shantanudwvd">
-  <img height="45" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</div>
-
-<!-- Animated coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="280" frameBorder="0" class="giphy-embed">
-</p>
+**Senior Node.js & TypeScript Engineer**  
+Building AI-powered, distributed, and developer-friendly systems.
 
 ---
 
-## 🔥 Featured Projects
+### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">API Rate Limiting Proxy System</h3>
-      <div align="center">
-        <a href="https://github.com/shantanudwvd/rate-limiting-proxy" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="100" alt="Rate Limiting API"/>
-        </a>
-        <p>
-          <a href="https://github.com/shantanudwvd/rate-limiting-proxy" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
-          </a>  
-        </p>
-        <p><strong>TypeScript, Express.js, PostgreSQL, Sequelize ORM, JWT, Docker</strong> - A robust proxy API service handling rate limiting for third-party APIs. Implements multiple algorithms (Token Bucket, Fixed Window, Sliding Window, Leaky Bucket), secure API key management with JWT, automatic request queuing, and comprehensive logging. Features layered architecture for scalability and maintainability.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">AI Instagram Caption Generator</h3>
-      <div align="center">
-        <a href="https://github.com/shantanudwvd/instagram-caption-generator" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="100" alt="Caption Generator"/>
-        </a>
-        <p>
-          <a href="https://github.com/shantanudwvd/instagram-caption-generator" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github"/>
-          </a>  
-          <a href="https://captionmuse.adityagusain.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-navy?style=flat-square&logo=vercel"/>
-          </a>
-        </p>
-        <p><strong>React, Node.js, Express, OpenAI API, Spotify API, MongoDB</strong> - AI-powered application using GPT-4o Vision API for image analysis and personalized caption generation. Features Spotify integration, customizable options (tone, length, language, emojis), voice recording, and a fine-tuned GPT model with feedback-based learning system for continuous improvement.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/shantanudwvd?tab=repositories">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Projects-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</div>
+- Senior Software Engineer working remotely with **Genba Studio B.V. (Netherlands)** on AI-powered document processing and workflow automation. :contentReference[oaicite:2]{index=2}  
+- 4+ years of experience across **backend, full-stack, and automation** roles (Unolo, Tracxn, Thoughts2Binary, Induced). :contentReference[oaicite:3]{index=3}  
+- Specialized in **Node.js, TypeScript, Next.js**, and **microservices** with strong exposure to **AI (OpenAI, LangChain, vLLM)** and **cloud platforms (AWS, Scaleway)**. :contentReference[oaicite:4]{index=4}  
+- Passionate about **privacy-first, decentralized architectures** and building systems that are resilient, observable, and easy for teams to work with. :contentReference[oaicite:5]{index=5}  
 
 ---
 
-## 🧰 Skills & Technologies
+### 🚀 What I’m Working On
 
-<div align="center">
-  
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- 🧠 **Avant-Guarde Platform @ Genba Studio**  
+  AI-powered document processing & project management platform built with **Next.js 14, React 18, TypeScript, GraphQL (Apollo), MongoDB**, and a **microservices architecture** for content creation and collaboration. :contentReference[oaicite:6]{index=6}  
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 🔐 **Rate Limiting Proxy API**  
+  A TypeScript + Express.js proxy service that transparently manages **Token Bucket, Fixed Window, Sliding Window, and Leaky Bucket** rate limiting strategies, with **PostgreSQL + Sequelize** for persistent tracking and **JWT/API key authentication**.  
+  👉 `github.com/shantanudwvd/rate-limiting-proxy-api` :contentReference[oaicite:7]{index=7}  
 
-### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo_Server-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-### AWS & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
+- 📸 **Instagram Caption Generator**  
+  Full-stack **AI caption generator** using **React 19, Node.js/Express, OpenAI GPT-4o, MongoDB**, with multi-modal features (vision, voice input, music context) and an admin dashboard for analytics & fine-tuning.  
+  🌐 `captionmuse.adityagusain.com` :contentReference[oaicite:8]{index=8}  
 
 ---
 
-## 👨‍💻 About Me
+### 🧩 Experience Snapshot
 
-```yaml
-name: Shantanu Dwivedi
-title: Full Stack Engineer
-company: Unolo
-experience: 5+ years
-location: Gurugram, India
+**Senior Software Engineer — Genba Studio B.V. (Remote, NL)**  
+*Sept 2025 – Present* :contentReference[oaicite:9]{index=9}  
+- Built a **microservices-based Avant-Guarde platform** for enterprise document processing, versioning, and collaboration using **Next.js 14, React 18, TypeScript, Node.js, GraphQL, MongoDB, Docker**.  
+- Implemented **AI pipelines** using OpenAI APIs for content generation, translation, and testing, with JSON patch-based document versioning and audit trails.  
+- Created a **kanban project management system**, real-time collaboration features, and a **serverless functions platform** on Scaleway for GPU-backed model execution with vLLM and web search via Perplexity.  
+- Developed **Shinka**, a Next.js game dashboard with React Konva and MongoDB for game progress tracking.  
 
-education:
-  - degree: "B.Tech. in Computer Science & Engineering"
-    university: "Punjabi University, Patiala"
-    year: 2019
-    cgpa: "6.7/10"
+**Software Developer — Induced (Remote, USA)**  
+*Jun 2025 – Sept 2025* :contentReference[oaicite:10]{index=10}  
+- Built **Company Research Tool v2** using **Next.js 15, React 19, TypeScript, Tailwind CSS** with AI-powered company analysis & multi-tenant support.  
+- Developed a **driver drowsiness detection system** using **FastAPI, OpenCV, dlib, WebSockets, MongoDB**.  
+- Delivered multiple enterprise UIs (Chargeflow, Galaxy, Validex, etc.) with **Next.js, Shadcn UI**, and a reusable **authentication microservice** (Node.js/Express, OAuth, JWT, RBAC).  
+- Built an **AI-powered private equity agent** using **LangChain, OpenAI, Pinecone**, and automated web scraping.  
 
-interests:
-  - "Backend Architecture Design"
-  - "Cloud-Native Applications"
-  - "Performance Optimization"
-  - "GraphQL & API Development"
-  - "Machine Learning & AI Integration"
+**Full Stack Engineer — Unolo (Gurgaon)**  
+*Sept 2021 – May 2025* :contentReference[oaicite:11]{index=11}  
+- Designed & built a standalone **attendance Android app** using **AWS Rekognition** for face-based attendance and payroll workflows.  
+- Created an **API Integration Manager** framework using behavioral design patterns for platforms like **greytHR, Zoho**.  
+- Implemented **GraphQL schemas & queries** for attendance, clients, and tasks, and built **Login with WhatsApp** for mobile apps.  
+- Tied for **1st place in a company hackathon** by building a **speech-to-text-to-action system** using OpenAI APIs.  
 
-current_focus:
-  - "AI Model Fine-tuning"
-  - "Distributed Systems Architecture"
-  - "Rate Limiting & Proxy Services"
-```
-  
----
+**Automation Engineer — Tracxn (Bengaluru)**  
+*Oct 2020 – Aug 2021* :contentReference[oaicite:12]{index=12}  
+- Developed **Tier 1 REST APIs** and **ElasticSearch mappings** for large organizational datasets.  
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shantanudwvd&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Shantanu Dwivedi's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanudwvd&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanudwvd&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b0ff&fire=00b0ff&currStreakLabel=00b0ff" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shantanudwvd&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+**Associate Software Developer I — Thoughts2Binary (Gurugram)**  
+*May 2019 – Mar 2020* :contentReference[oaicite:13]{index=13}  
+- Built **AWS serverless workflows** (Lambda, DynamoDB, S3) to onboard and integrate new clients into a middleware platform.  
+- Developed REST APIs and optimized pipelines for multi-client e-commerce order syncing.  
 
 ---
 
-## 💼 Professional Experience
+### 🛠 Tech Stack
 
-<img align="right" src="https://img.shields.io/badge/Unolo-blue?style=for-the-badge" />
+**Languages**  
+`JavaScript` `TypeScript` `C` `C++` `Java` `Python` `SQL`  
 
-**Full Stack Engineer** <br>
-*Unolo* | September 2021 - Present
+**Backend & APIs**  
+`Node.js` `Express.js` `FastAPI` `GraphQL` `Apollo Server` `REST`  
+`JWT` `OAuth` `RBAC` `Microservices`  
 
-- Designed and built standalone attendance Android application using AWS Rekognition for facial recognition
-- Built API Integration Manager framework for third-party platforms (greytHR, Zoho) using Command Design Pattern
-- Developed GraphQL schemas and queries for workforce attendance, clients, and task management
-- Implemented Login with WhatsApp feature for Android and iOS applications
-- Designed Users Rights and Access Management system for admin visibility control
-- Built automated ETL data pipelines for Customer Relationship Management reports
-- Developed Firebase-based multi-device access management for field executives
+**Frontend**  
+`React 18/19` `Next.js 14/15` `TypeScript`  
+`Material-UI` `Tailwind CSS (incl. v4)` `Shadcn UI`  
+`React Konva` `Lexical Editor` `Howler.js`  
 
-<img align="right" src="https://img.shields.io/badge/Tracxn-purple?style=for-the-badge" />
+**Datastores**  
+`MongoDB` `Mongoose` `PostgreSQL` `Sequelize`  
+`MySQL` `DynamoDB` `Pinecone`  
 
-**Automation Engineer** <br>
-*Tracxn* | October 2020 - August 2021
+**AI / ML & CV**  
+`OpenAI APIs (incl. GPT-4o & Vision)` `LangChain` `vLLM`  
+`AWS Rekognition` `OpenCV` `dlib` `ML algorithms`  
 
-- Designed and developed Tier 1 REST APIs for upstream services performing mathematical functions
-- Implemented client datasets' index mappings using AWS Elastic Search
+**Cloud & DevOps**  
+`AWS (Lambda, EC2, S3, SQS, DynamoDB, ElasticSearch, Rekognition)`  
+`Scaleway` `Docker` `GitHub Actions` `Serverless`  
 
-<img align="right" src="https://img.shields.io/badge/Thoughts2Binary-orange?style=for-the-badge" />
-
-**Associate Software Developer I** <br>
-*Thoughts2Binary* | May 2019 - March 2020
-
-- Built automated workflow using AWS serverless compute for client onboarding and integration
-- Developed REST APIs to sync orders from various clients to Quivers middleware
-- Enhanced and optimized existing client pipelines on the company platform
+**Tooling**  
+`Git` `VSCode` `WebStorm` `PyCharm` `Postman`  
+`Kibana` `Kafka` `HAProxy`  
 
 ---
 
-## 🏆 Achievements & Certifications
+### 🧪 Selected Projects
 
-- **Active Competitive Programmer** - 100+ problems solved across various platforms (2015 - Present)
-- **HackerRank Certified** - Problem Solving and Python certifications (October 2020)
-- **Code with Mosh** - NodeJS Technology Course Completion (August 2020)
-- **2nd Place Winner** - Code Hunt at Tech Fest (2017)
-- **Co-founder** - Mozilla Campus Club (2017)
-- **Class Representative** - During undergraduate studies (2015)
+#### 🔐 Rate Limiting Proxy API
+Proxy layer that manages rate limits for multiple third-party APIs with configurable algorithms & authentication.  
+- Multiple rate limiting strategies: **Token Bucket, Fixed Window, Sliding Window, Leaky Bucket**  
+- **JWT & API-key auth**, application registration, intelligent request queueing  
+- **PostgreSQL + Sequelize** for persistent tracking  
+📦 Tech: `TypeScript` `Express.js` `PostgreSQL` `Sequelize` `Axios` `JWT` :contentReference[oaicite:14]{index=14}  
+
+#### 📸 Instagram Caption Generator
+AI-powered captions for Instagram with multi-modal context.  
+- Uses **OpenAI GPT-4o** with **image analysis**, **Spotify integration**, and **voice-to-text input**  
+- Supports 11+ tones, multiple languages (English, Hindi, Hinglish), flexible emojis & hashtags  
+- Admin dashboard with analytics, training data management, and feedback learning  
+🌐 Live: `captionmuse.adityagusain.com`  
+📦 Tech: `React 19` `Node.js` `Express` `MongoDB` `OpenAI GPT-4o` `Spotify Web API` `Tailwind CSS` :contentReference[oaicite:15]{index=15}  
+
+*(More in pinned repositories below 👇)*
 
 ---
 
-## 📌 Current Focus
+### 📚 Education
 
-- Building scalable API architectures with rate limiting and proxy services
-- AI model fine-tuning for improved contextual relevance
-- GraphQL API development for complex data relationships
-- AWS cloud services and serverless architectures
-- Contributing to open-source projects and competitive programming
+**B.Tech. in Computer Science & Engineering** — Punjabi University, Patiala  
+CGPA: 6.7/10 :contentReference[oaicite:16]{index=16}  
 
 ---
 
-<div align="center">
-  <h3>🌐 Connect & Follow</h3>
-  <a href="https://www.linkedin.com/in/shantanu-d-216994b3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://stackoverflow.com/users/8399525/shantanu-dwivedi" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
-  </a>
-  <a href="https://github.com/shantanudwvd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:shantanu.dwvd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+### 🎯 Beyond the Resume
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shantanudwvd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+- Solved **100+ competitive programming problems** across platforms. :contentReference[oaicite:17]{index=17}  
+- Co-founded a **Mozilla Campus Club** and served as a **Class Representative** during undergrad. :contentReference[oaicite:18]{index=18}  
+- Certified in **Problem Solving** & **Python** on HackerRank; completed **Code with Mosh (Node.js)**. :contentReference[oaicite:19]{index=19}  
 
-![Snake animation](https://github.com/shantanudwvd/shantanudwvd/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: **shantanu.dwvd@gmail.com**  
+- 💼 LinkedIn: `linkedin.com/in/shantanu-dwivedi-216994b3` :contentReference[oaicite:20]{index=20}  
+- 🧑‍💻 GitHub: **@shantanudwvd**
+
+Always open to interesting problems in **Node.js, TypeScript, AI, and decentralized / P2P architectures**.
