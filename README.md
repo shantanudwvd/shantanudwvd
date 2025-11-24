@@ -52,7 +52,7 @@ A TypeScript + Express.js proxy service that transparently manages **Token Bucke
 
 ### 📸 Instagram Caption Generator  
 Full-stack AI caption generator using **React 19, Node.js/Express, OpenAI GPT-4o, MongoDB** with multi-modal features (vision, voice input, music context) and an admin dashboard for analytics & fine-tuning.  
-🌐 **Live:** https://captionmuse.adityagusain.com
+🌐 **Live:** https://www.captionmuse.shop
 
 ---
 
