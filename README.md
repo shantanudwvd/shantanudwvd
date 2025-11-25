@@ -160,7 +160,7 @@ Full-stack AI caption generator using **React 19, Node.js/Express, OpenAI GPT-4o
 
 - 📧 **Email:** [shantanu.dwvd@gmail.com](mailto:shantanu.dwvd@gmail.com)  
 - 🧑‍💻 **GitHub:** [@shantanudwvd](https://github.com/shantanudwvd)  
-- 💼 **LinkedIn:** [Shantanu Dwivedi](https://linkedin.com/in/shantanu-dwivedi-216994b3)  
+- 💼 **LinkedIn:** [Shantanu Dwivedi](https://www.linkedin.com/in/shantanu-d-216994b3/)  
 
 > Always open to interesting problems in **Node.js, TypeScript, AI, and decentralized / P2P architectures**.
 
