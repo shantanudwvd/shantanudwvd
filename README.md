@@ -34,7 +34,7 @@
 
 ## 👨‍💻 About Me
 
-- Senior Software Engineer working remotely with **Genba Studio B.V. (Netherlands)** on AI-powered document processing and workflow automation.  
+- Senior Software Engineer working remotely with **InducedAI (U.S.)** on AI-powered document processing and workflow automation.  
 - 4+ years of experience across backend, full-stack, and automation roles (**Unolo, Tracxn, Thoughts2Binary, Induced**).  
 - Specialized in **Node.js, TypeScript, Next.js**, and **microservices**, with strong exposure to **AI (OpenAI, LangChain, vLLM)** and **cloud platforms (AWS, Scaleway)**.  
 - Passionate about privacy-first, decentralized architectures and building systems that are resilient, observable, and easy for teams to work with.
