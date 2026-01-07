@@ -43,7 +43,7 @@
 
 ## 🚀 What I’m Working On
 
-### 🧠 Avant-Guarde Platform @ Genba Studio
+### 🧠 Avant-Guarde Platform @ Genba Studio (Sep,25 - Nov,25)
 AI-powered document processing & project management platform using **Next.js 14, React 18, TypeScript, GraphQL (Apollo)**, MongoDB, and a microservices architecture for versioned content creation and collaboration.
 
 ### 🔐 Rate Limiting Proxy API  
